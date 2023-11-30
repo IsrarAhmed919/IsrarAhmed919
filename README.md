@@ -1,3 +1,4 @@
+[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/Future_Of_Artificial_Intelligence.jpg)]
 <h1 align="center">Hi 👋, I'm Israr Ahmed</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
